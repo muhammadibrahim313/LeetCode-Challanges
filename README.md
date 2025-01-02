@@ -31,7 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
     </div>
     <div style="max-width: 35%; position: relative;">
       <div style="border-radius: 15px; overflow: hidden; box-shadow: 0 0 20px rgba(0, 188, 212, 0.7); background-color: #00bcd4; padding: 10px; transition: transform 0.3s ease-in-out;">
-        <img src="https://media.licdn.com/dms/image/D4D03AQHoY6n7XXJ_lQ/profile-displayphoto-shrink_400_400/0/1715361232180?e=1721260800&v=beta&t=owqH4rNF1ylNNfdnznwTvxOXmVGmt3I3X8yVm10cGww" alt="Profile Picture" style="width: 100%; height: auto; border-radius: 15px;">
+        <img src="https://media.licdn.com/dms/image/v2/D4D03AQFCNX1cJg9J8w/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1732156800150?e=1741219200&v=beta&t=ArHSetxW31lN-q46SWk_iKV5vgWfzTaFYPXTV-eY5X4" alt="Profile Picture" style="width: 100%; height: auto; border-radius: 15px;">
       </div>
     </div>
   </div>
